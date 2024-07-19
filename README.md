@@ -6,7 +6,7 @@ When you try to add a package (like image_picker) to pick an image from a galler
 - If your app supports multi-languages image picker will not respond with that.
 - If your app has a beautiful design and a good user experience, image_picker will break all of this, Because image_picker has a traditional UI of Gallery display.
 
-In (image_picker_plus), we solve all those issues and many other features like:-
+In (image_picker_advanced), we solve all those issues and many other features like:-
 - You can customize the UI of displaying the gallery.
 - You can crop the selected image(s) with different aspect ratios.
 - You can display photos and videos and choose from both of them.
@@ -94,7 +94,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  image_picker_plus: [last_version]
+  image_picker_advanced: [last_version]
 ```
 
 ### 2. Install it
@@ -104,13 +104,13 @@ You can install packages from the command line:
 with `pub`:
 
 ```
-$ pub get image_picker_plus
+$ pub get image_picker_advanced
 ```
 
 with `Flutter`:
 
 ```
-$ flutter pub add image_picker_plus
+$ flutter pub add image_picker_advanced
 ```
 
 ### 3. Import it
