@@ -25,8 +25,8 @@ In (image_picker_advanced), we solve all those issues and many other features li
 
 </p>
 <p align="left">
-  <a href="https://pub.dartlang.org/packages/image_picker_plus">
-    <img src="https://img.shields.io/pub/v/image_picker_plus.svg"
+  <a href="https://pub.dartlang.org/packages/image_picker_advanced">
+    <img src="https://img.shields.io/pub/v/image_picker_advanced.svg"
       alt="Pub Package" />
   </a>
     <a href="LICENSE">
@@ -118,5 +118,5 @@ $ flutter pub add image_picker_advanced
 In your `Dart` code, you can use:
 
 ```dart
-import 'package:image_picker_plus/image_picker_plus.dart';
+import 'package:image_picker_advanced/image_picker_advanced.dart';
 ```# image_picker_advanced

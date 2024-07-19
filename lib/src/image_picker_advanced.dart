@@ -1,6 +1,6 @@
-import 'package:image_picker_plus/image_picker_plus.dart';
-import 'package:image_picker_plus/src/gallery_display.dart';
-import 'package:image_picker_plus/src/utilities/enum.dart';
+import 'package:image_picker_advanced/image_picker_advanced.dart';
+import 'package:image_picker_advanced/src/gallery_display.dart';
+import 'package:image_picker_advanced/src/utilities/enum.dart';
 import 'package:flutter/material.dart';
 
 class ImagePickerPlus {

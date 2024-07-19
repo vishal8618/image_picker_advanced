@@ -1,5 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:image_picker_plus/image_picker_plus.dart';
+import 'package:image_picker_advanced/image_picker_advanced.dart';
 import 'package:flutter/material.dart';
 
 /// [GalleryDisplaySettings] When you make ImageSource from the camera these settings will be disabled because they belong to the gallery.

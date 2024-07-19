@@ -1,7 +1,7 @@
 import 'dart:io';
-import 'package:image_picker_plus/src/custom_expand_icon.dart';
-import 'package:image_picker_plus/src/entities/app_theme.dart';
-import 'package:image_picker_plus/src/custom_packages/crop_image/crop_image.dart';
+import 'package:image_picker_advanced/src/custom_expand_icon.dart';
+import 'package:image_picker_advanced/src/entities/app_theme.dart';
+import 'package:image_picker_advanced/src/custom_packages/crop_image/crop_image.dart';
 import 'package:flutter/material.dart';
 
 class CropImageView extends StatefulWidget {

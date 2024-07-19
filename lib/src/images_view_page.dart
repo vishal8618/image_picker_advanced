@@ -1,11 +1,11 @@
 import 'dart:io';
 
-import 'package:image_picker_plus/image_picker_plus.dart';
-import 'package:image_picker_plus/src/crop_image_view.dart';
-import 'package:image_picker_plus/src/custom_packages/crop_image/crop_image.dart';
-import 'package:image_picker_plus/src/custom_packages/crop_image/main/image_crop.dart';
-import 'package:image_picker_plus/src/image.dart';
-import 'package:image_picker_plus/src/multi_selection_mode.dart';
+import 'package:image_picker_advanced/image_picker_advanced.dart';
+import 'package:image_picker_advanced/src/crop_image_view.dart';
+import 'package:image_picker_advanced/src/custom_packages/crop_image/crop_image.dart';
+import 'package:image_picker_advanced/src/custom_packages/crop_image/main/image_crop.dart';
+import 'package:image_picker_advanced/src/image.dart';
+import 'package:image_picker_advanced/src/multi_selection_mode.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:photo_manager/photo_manager.dart';

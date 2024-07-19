@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:image_picker_plus/image_picker_plus.dart';
+import 'package:image_picker_advanced/image_picker_advanced.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:video_player/video_player.dart';
